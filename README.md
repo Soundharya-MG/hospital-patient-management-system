@@ -1,8 +1,8 @@
-****Hospital Patient Management System
-****
+**Hospital Patient Management System**
 An advanced console-based Hospital Patient Management System developed using Python.
 This project demonstrates Object-Oriented Programming (OOP), JSON-based persistent storage, custom exception handling, authentication system, and report generation.
 
+---
 **🚀 Features**
 
 🔐 Admin Login Authentication
@@ -25,6 +25,7 @@ This project demonstrates Object-Oriented Programming (OOP), JSON-based persiste
 
 🧱 Clean Code Architecture
 
+---
 **🛠 Technologies Used**
 
 Python 3
